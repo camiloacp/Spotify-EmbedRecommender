@@ -2,6 +2,8 @@
 
 Sistema inteligente de recomendación musical basado en embeddings y aprendizaje automático, con una interfaz moderna inspirada en Spotify.
 
+https://github.com/user-attachments/assets/a6f1008d-e65c-4cae-8190-7ba772fd0f56
+
 ## 📋 Descripción
 
 EmbedTune es una aplicación de recomendación de canciones que utiliza **Word2Vec** y **embeddings** para encontrar música similar basándose en patrones de playlists. El sistema analiza la co-ocurrencia de canciones en playlists para generar recomendaciones personalizadas y precisas.
